@@ -1,0 +1,12 @@
+pages\BasePage.class
+steps\TravelSteps.class
+util\TestProperties.class
+steps\SendAppSteps.class
+pages\SendAppPage.class
+pages\ChoiceSumPage.class
+util\AllureListener.class
+steps\BaseSteps.class
+steps\ChoiceSumSteps.class
+pages\TravelPage.class
+steps\MainSteps.class
+pages\MainPage.class

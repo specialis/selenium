@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="16f1a0e1-5972-4e19-8721-7ffb0daf2da3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Задание 2/second_task/drv/chromedriver3.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/libraries/Maven__com_google_auto_auto_common_0_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/libraries/Maven__com_google_auto_service_auto_service_1_0_rc6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/libraries/Maven__com_google_auto_service_auto_service_annotations_1_0_rc6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_3_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/libraries/Maven__com_google_guava_guava_28_2_jre.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_4_4_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/libraries/Maven__com_squareup_okio_okio_2_4_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/libraries/Maven__com_sun_activation_javax_activation_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/libraries/Maven__com_typesafe_netty_netty_reactive_streams_2_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/libraries/Maven__io_grpc_grpc_context_1_24_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/libraries/Maven__io_netty_netty_buffer_4_1_47_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/libraries/Maven__io_netty_netty_codec_4_1_47_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_47_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/libraries/Maven__io_netty_netty_codec_socks_4_1_46_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/libraries/Maven__io_netty_netty_common_4_1_47_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/libraries/Maven__io_netty_netty_handler_4_1_43_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/libraries/Maven__io_netty_netty_handler_proxy_4_1_46_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/libraries/Maven__io_netty_netty_resolver_4_1_47_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/libraries/Maven__io_netty_netty_transport_4_1_47_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_4_1_47_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_linux_x86_64_4_1_47_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/libraries/Maven__io_netty_netty_transport_native_kqueue_4_1_47_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/libraries/Maven__io_netty_netty_transport_native_kqueue_osx_x86_64_4_1_47_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_47_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/libraries/Maven__io_opentelemetry_opentelemetry_api_0_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/libraries/Maven__junit_junit_4_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/libraries/Maven__org_asynchttpclient_async_http_client_2_11_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/libraries/Maven__org_asynchttpclient_async_http_client_netty_utils_2_11_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/libraries/Maven__org_checkerframework_checker_qual_2_10_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/libraries/Maven__org_jetbrains_annotations_13_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_1_3_61.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_common_1_3_61.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_4_0_0_alpha_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_4_0_0_alpha_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chromium_driver_4_0_0_alpha_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_4_0_0_alpha_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_4_0_0_alpha_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edgehtml_driver_4_0_0_alpha_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_4_0_0_alpha_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_xpi_driver_4_0_0_alpha_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_http_4_0_0_alpha_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_4_0_0_alpha_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_4_0_0_alpha_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_json_4_0_0_alpha_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_4_0_0_alpha_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_4_0_0_alpha_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_4_0_0_alpha_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_4_0_0_alpha_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/sbt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/drv/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/drv/geckodriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/rgstests.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/src/test/java/InsuranceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/target/test-classes/InsuranceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/target/test-classes/InsuranceTest2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgstests-master/target/test-classes/InsuranceTravelTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.allure/allure-2.3.1/bin/allure" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.allure/allure-2.3.1/bin/allure.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.allure/allure-2.3.1/config/allure-cucumber.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.allure/allure-2.3.1/config/allure-junit.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.allure/allure-2.3.1/config/allure.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.allure/allure-2.3.1/lib/allure-commandline-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.allure/allure-2.3.1/lib/allure-generator-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.allure/allure-2.3.1/lib/allure-plugin-api-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.allure/allure-2.3.1/lib/allure1-model-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.allure/allure-2.3.1/lib/allure2-model-api-1.0-BETA4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.allure/allure-2.3.1/lib/allure2-model-jackson-1.0-BETA4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.allure/allure-2.3.1/lib/allure2-model-pojo-1.0-BETA4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.allure/allure-2.3.1/lib/commons-codec-1.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.allure/allure-2.3.1/lib/commons-io-2.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.allure/allure-2.3.1/lib/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.allure/allure-2.3.1/lib/config/jetty-logging.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.allure/allure-2.3.1/lib/config/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.allure/allure-2.3.1/lib/flexmark-0.19.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.allure/allure-2.3.1/lib/flexmark-util-0.19.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.allure/allure-2.3.1/lib/freemarker-2.3.23.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.allure/allure-2.3.1/lib/httpclient-4.5.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.allure/allure-2.3.1/lib/httpcore-4.4.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.allure/allure-2.3.1/lib/jackson-annotations-2.8.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.allure/allure-2.3.1/lib/jackson-core-2.8.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.allure/allure-2.3.1/lib/jackson-databind-2.8.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.allure/allure-2.3.1/lib/jackson-dataformat-yaml-2.8.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.allure/allure-2.3.1/lib/jackson-module-jaxb-annotations-2.8.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.allure/allure-2.3.1/lib/javax.servlet-api-3.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.allure/allure-2.3.1/lib/jaxb-utils-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.allure/allure-2.3.1/lib/jcommander-1.64.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.allure/allure-2.3.1/lib/jetty-http-9.2.2.v20140723.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.allure/allure-2.3.1/lib/jetty-io-9.2.2.v20140723.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.allure/allure-2.3.1/lib/jetty-server-9.2.2.v20140723.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.allure/allure-2.3.1/lib/jetty-util-9.2.2.v20140723.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.allure/allure-2.3.1/lib/log4j-1.2.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.allure/allure-2.3.1/lib/properties-2.0.RC5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.allure/allure-2.3.1/lib/slf4j-api-1.7.21.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.allure/allure-2.3.1/lib/slf4j-log4j12-1.7.21.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.allure/allure-2.3.1/lib/snakeyaml-1.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.allure/allure-2.3.1/lib/tika-core-1.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.allure/allure-2.3.1/plugins/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.allure/allure-2.3.1/plugins/behaviors-plugin/allure-plugin.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.allure/allure-2.3.1/plugins/behaviors-plugin/plugin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.allure/allure-2.3.1/plugins/behaviors-plugin/static/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.allure/allure-2.3.1/plugins/custom-logo-plugin/allure-plugin.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.allure/allure-2.3.1/plugins/custom-logo-plugin/static/custom-logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.allure/allure-2.3.1/plugins/custom-logo-plugin/static/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.allure/allure-2.3.1/plugins/junit-xml-plugin/allure-plugin.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.allure/allure-2.3.1/plugins/junit-xml-plugin/junit-xml-plugin-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.allure/allure-2.3.1/plugins/packages-plugin/allure-plugin.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.allure/allure-2.3.1/plugins/packages-plugin/plugin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.allure/allure-2.3.1/plugins/packages-plugin/static/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.allure/allure-2.3.1/plugins/screen-diff-plugin/allure-plugin.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.allure/allure-2.3.1/plugins/screen-diff-plugin/static/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.allure/allure-2.3.1/plugins/screen-diff-plugin/static/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.allure/allure-2.3.1/plugins/trx-plugin/allure-plugin.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.allure/allure-2.3.1/plugins/trx-plugin/trx-plugin-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.allure/allure-2.3.1/plugins/xunit-xml-plugin/allure-plugin.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.allure/allure-2.3.1/plugins/xunit-xml-plugin/xunit-xml-plugin-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__com_beust_jcommander_1_27.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__com_google_auto_auto_common_0_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__com_google_auto_service_auto_service_1_0_rc6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__com_google_auto_service_auto_service_annotations_1_0_rc6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_3_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__com_google_guava_guava_28_2_jre.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_4_4_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__com_squareup_okio_okio_2_4_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__com_sun_activation_javax_activation_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__com_typesafe_netty_netty_reactive_streams_2_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__io_grpc_grpc_context_1_24_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__io_netty_netty_buffer_4_1_47_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__io_netty_netty_codec_4_1_47_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_47_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__io_netty_netty_codec_socks_4_1_46_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__io_netty_netty_common_4_1_47_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__io_netty_netty_handler_4_1_43_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__io_netty_netty_handler_proxy_4_1_46_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__io_netty_netty_resolver_4_1_47_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__io_netty_netty_transport_4_1_47_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_4_1_47_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_linux_x86_64_4_1_47_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__io_netty_netty_transport_native_kqueue_4_1_47_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__io_netty_netty_transport_native_kqueue_osx_x86_64_4_1_47_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_47_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__io_opentelemetry_opentelemetry_api_0_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_4_0_b180830_0359.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__org_apache_tika_tika_core_1_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__org_aspectj_aspectjrt_1_8_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__org_asynchttpclient_async_http_client_2_11_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__org_asynchttpclient_async_http_client_netty_utils_2_11_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__org_beanshell_bsh_2_0b4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__org_checkerframework_checker_qual_2_10_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__org_jetbrains_annotations_13_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_1_3_61.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_common_1_3_61.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__org_jvnet_jaxb2_commons_jaxb2_basics_runtime_0_9_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_4_0_0_alpha_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_4_0_0_alpha_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chromium_driver_4_0_0_alpha_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_4_0_0_alpha_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_4_0_0_alpha_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edgehtml_driver_4_0_0_alpha_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_4_0_0_alpha_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_xpi_driver_4_0_0_alpha_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_http_4_0_0_alpha_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_4_0_0_alpha_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_4_0_0_alpha_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_json_4_0_0_alpha_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_4_0_0_alpha_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_4_0_0_alpha_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_4_0_0_alpha_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_4_0_0_alpha_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__org_slf4j_slf4j_simple_1_7_30.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__org_testng_testng_6_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__org_yaml_snakeyaml_1_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__ru_qatools_commons_properties_2_0_RC5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__ru_yandex_qatools_allure_allure_java_adaptor_api_1_5_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__ru_yandex_qatools_allure_allure_java_annotations_1_5_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__ru_yandex_qatools_allure_allure_java_aspects_1_5_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__ru_yandex_qatools_allure_allure_junit_adaptor_1_5_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__ru_yandex_qatools_allure_allure_model_1_5_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/libraries/Maven__ru_yandex_qatools_allure_allure_testng_adaptor_1_5_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/sbt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/allure.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/drv/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/drv/geckodriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/rgstests.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/src/main/java/pages/BasePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/src/main/java/pages/ChoiceSumPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/src/main/java/pages/MainPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/src/main/java/pages/SendAppPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/src/main/java/pages/TravelPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/src/main/java/steps/BaseSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/src/main/java/steps/ChoiceSumSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/src/main/java/steps/MainSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/src/main/java/steps/SendAppSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/src/main/java/steps/TravelSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/src/main/java/util/AllureListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/src/main/java/util/TestProperties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Задание 2/rgstests-pageObjectJunit/src/test/java/MyRefactoringTest.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/InsuranceTest2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/InsuranceTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-5" />
+    <option name="width" value="1928" />
+    <option name="height" value="1032" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="rgstests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="first_task" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rgstests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="first_task" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rgstests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="first_task" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rgstests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="first_task" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="InsuranceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rgstests" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="InsuranceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.InsuranceTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../gatling-sbt-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../gatling-sbt-plugin-demo-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../gatling-via-sbt-master" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16f1a0e1-5972-4e19-8721-7ffb0daf2da3" name="Default Changelist" comment="" />
+      <created>1585047134556</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585047134556</updated>
+      <workItem from="1585047143850" duration="1452000" />
+      <workItem from="1585147226892" duration="6867000" />
+      <workItem from="1585905752205" duration="14597000" />
+      <workItem from="1586771440095" duration="3604000" />
+      <workItem from="1586982398085" duration="241000" />
+      <workItem from="1587111394943" duration="79000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="InsuranceTest - 2020.04.03 at 13h 23m 04s.xml">
+      <configuration name="InsuranceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InsuranceTest - 2020.04.03 at 13h 41m 17s.xml">
+      <configuration name="InsuranceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InsuranceTest - 2020.04.03 at 13h 43m 04s.xml">
+      <configuration name="InsuranceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InsuranceTest - 2020.04.13 at 13h 05m 43s.xml">
+      <configuration name="InsuranceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InsuranceTest - 2020.04.13 at 13h 08m 07s.xml">
+      <configuration name="InsuranceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InsuranceTest - 2020.04.13 at 13h 21m 07s.xml">
+      <configuration name="InsuranceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InsuranceTest - 2020.04.13 at 13h 27m 17s.xml">
+      <configuration name="InsuranceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InsuranceTest - 2020.04.13 at 13h 41m 38s.xml">
+      <configuration name="InsuranceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InsuranceTest - 2020.04.13 at 13h 45m 39s.xml">
+      <configuration name="InsuranceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InsuranceTest - 2020.04.15 at 23h 30m 02s.xml">
+      <configuration name="InsuranceTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="26840000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-5" y="0" width="1928" height="1032" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25910065" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.033370413" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/InsuranceTravelTest.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="71" column="23" selection-start-line="71" selection-start-column="23" selection-end-line="71" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/InsuranceTest2.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/InsuranceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="763">
+          <caret line="60" column="100" selection-start-line="60" selection-start-column="100" selection-end-line="60" selection-end-column="100" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
