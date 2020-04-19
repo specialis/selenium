@@ -12,7 +12,6 @@ public class ScenarioSteps {
     MarketSteps marketSteps = new MarketSteps();
     ElectronicSteps electronicSteps = new ElectronicSteps();
     CatalogSteps catalogSteps = new CatalogSteps();
-    FindSteps findSteps = new FindSteps();
 
     @When("^выбран пункт меню Маркет$")
     public void selectMenuItem(){
@@ -30,9 +29,9 @@ public class ScenarioSteps {
     @Then("^выбран раздел Наушники$")
     public void selectHeadphones(){ electronicSteps.selectHeadphones(); }
 
-    @When("^Задан параметр поиска от N рублей$")
-    public void inputMoney(){
-        catalogSteps.inputMoney();
+    @When("^Задан параметр поиска от \"(.+)\" рублей$")
+    public void inputMoney(String price){
+        catalogSteps.inputMoney(price);
     }
 
     @When("^Выбран пункт Samsung$")
@@ -57,7 +56,12 @@ public class ScenarioSteps {
 
     @When("^Ввод в поисковую строку$")
     public void inputText(){
-        findSteps.inputText();
+        catalogSteps.inputText();
+    }
+
+    @Then("^Проверка наименования товара$")
+    public void checkText(){
+        catalogSteps.checkText();
     }
 
 

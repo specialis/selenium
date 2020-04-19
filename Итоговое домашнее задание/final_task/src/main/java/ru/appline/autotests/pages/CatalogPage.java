@@ -24,6 +24,12 @@ public class CatalogPage extends BasePageObject {
     @FindBy(xpath = "//h3[contains(@class,'n-snippet-card2__title')]")
     public List<WebElement> items;
 
+    @FindBy(id = "header-search")
+    public WebElement search;
+
+    @FindBy(xpath = "//span[contains(@class,'search2__button')]/button")
+    public WebElement button;
+
     public CatalogPage(){
         PageFactory.initElements(BaseSteps.getDriver(), this);
     }
@@ -36,7 +42,7 @@ public class CatalogPage extends BasePageObject {
         for (int i = 0; i < items.size(); i++) {
            System.out.println(items.get(i).getText());
            if(i==12) {
-               System.out.println("Элементов больше 12!");
+               System.out.println("----------------------------Элементов больше 12!-----------------------------------------");
            }
         }
     }
